@@ -1,0 +1,3 @@
+#!
+#update stuff
+apt update && apt -y upgrade && apt update && apt -y dist-upgrade && apt autoclean && apt -y autoremove && apt -y purge
